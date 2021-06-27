@@ -1,0 +1,12 @@
+START
+    Input Array // get numbers from user
+    Set Sum = 0
+    Set Count = 0
+    Loop through Array // Check if num is positive
+        Sum = Sum + num
+        Count + 1
+    Output Sum
+    Output Count
+    Average = Sum / Count
+Output Average
+END
